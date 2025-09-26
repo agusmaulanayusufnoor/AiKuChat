@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: "Chat Bot Powered By IT@bprku.com",
   appleWebApp: {
     title: "AiKUChat",
-    statusBarStyle: "Chat Bot Powered By IT@bprku.com",
+    statusBarStyle: "default",
   },
 };
 
